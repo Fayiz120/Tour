@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+.car {
+    height: 90vh;
+}
+
+.header {
+    position: absolute;
+    z-index: 5;
+    width: 100%;
+    color: white;
+}
+
+.nav-link {
+    color: black;
+    font-size: 1.5rem;
+}
+
+footer {
+
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    color: #0a5c5e;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+a:hover {
+    color: #EAF6f6;
+}
+
+.copy {
+    font-size: 0.75rem;
+    padding: 20px 0;
+    color: #EAF6F6
+}
+
+.cover-img {
+    height: 70vh;
+    width: 100%;
+    padding: 20px;
+}
+
+.info {
+    text-align: center;
+}
+
+.info-head {
+    text-align: center;
+
+}
+
+.info-para {
+    max-width: 70%;
+    text-align: center;
+    /* background-color: red; */
+    margin-left: 15%;
+    line-height: 2;
+    font-size: 20px;
+
+}
