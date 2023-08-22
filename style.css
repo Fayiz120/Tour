@@ -70,3 +70,42 @@ a:hover {
     font-size: 20px;
 
 }
+
+.card {
+    /* padding: 30px 20px; */
+    padding: 30px;
+    margin: 30px 30px;
+    background-color: #bebeea;
+    /* background-color: #66BFBF; */
+
+    color: #F3EFF5;
+    border-radius: 5%;
+    box-shadow: 10px 10px 30px 0px #6e7995;
+   
+}
+
+.album-image {
+    border-radius: 5%;
+}
+
+.heading {
+    margin-top: 50px;
+}
+
+.attractions {
+    position: relative;
+}
+
+.sub-heading {
+display: block;
+margin-left: -60%;
+}
+.place-para{
+    max-width: 70%;
+    text-align: start;
+    /* background-color: red; */
+    margin-left: 15%;
+    line-height: 2;
+    font-size: 20px;
+
+}
