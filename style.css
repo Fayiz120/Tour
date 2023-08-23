@@ -75,7 +75,7 @@ a:hover {
     /* padding: 30px 20px; */
     padding: 30px;
     margin: 30px 30px;
-    background-color: #bebeea;
+    background-color: #ffffff;
     /* background-color: #66BFBF; */
 
     color: #F3EFF5;
@@ -109,3 +109,12 @@ margin-left: -60%;
     font-size: 20px;
 
 }
+.ft-img{
+    width: 20px;
+    display: block;
+}
+.copy{
+    font-size: 0.75rem;
+    padding:20px 0;
+    color:#EAF6F6
+  }
